@@ -17,7 +17,7 @@ export default function Header() {
     return (
         <header className="header">
             <div className="logo">
-                <Link to="/">Application</Link>
+                <Link to="/">Agora</Link>
             </div>
             <ul>
                 {user ? (
